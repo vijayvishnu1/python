@@ -1,2 +1,0 @@
-This is Sample Text.
-Get the new line information here.
